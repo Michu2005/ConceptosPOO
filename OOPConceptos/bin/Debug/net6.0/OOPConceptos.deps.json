@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOPConceptos/1.0.0": {
+        "dependencies": {
+          "OOPConceptos.Logica": "1.0.0"
+        },
+        "runtime": {
+          "OOPConceptos.dll": {}
+        }
+      },
+      "OOPConceptos.Logica/1.0.0": {
+        "runtime": {
+          "OOPConceptos.Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPConceptos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOPConceptos.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

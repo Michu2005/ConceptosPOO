@@ -1,0 +1,12 @@
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\bin\Debug\net6.0\OOPConceptos.Logica.deps.json
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\bin\Debug\net6.0\OOPConceptos.Logica.dll
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\bin\Debug\net6.0\OOPConceptos.Logica.pdb
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.csproj.AssemblyReference.cache
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.AssemblyInfoInputs.cache
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.AssemblyInfo.cs
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.csproj.CoreCompileInputs.cache
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.dll
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\refint\OOPConceptos.Logica.dll
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\OOPConceptos.Logica.pdb
+C:\Users\michu\OneDrive\Documentos\projects\OOPConceptos.Logica\obj\Debug\net6.0\ref\OOPConceptos.Logica.dll
